@@ -1,8 +1,6 @@
 # Even Better Jira
 Removes everything off the screen that is not the kanban board itself, and then fullscreens the page. (must refresh the page to bring menus back)
 
-![fullscreen jira kanban board](https://user-images.githubusercontent.com/39921371/97606917-525a0f00-19de-11eb-9bff-33af2e57645f.png)
-
 ## Instructions
 1. Bookmark this page
 2. Right click the newly created bookmark
