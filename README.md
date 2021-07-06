@@ -2,7 +2,7 @@
 Removes everything off the screen that is not the kanban board itself, and then fullscreens the page. (must refresh the page to bring menus back)
 
 ### **UPDATE** Feb 01, 2021 script has been updated
-If you already have the "Even Better Jira" bookmark, simple copy the new below and edit the existing bookmark.
+If you already have the "Even Better Jira" bookmark, simply copy the new script below and edit the existing bookmark to replace the old script.
 
 ---
 
