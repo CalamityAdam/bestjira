@@ -6,7 +6,7 @@ If you already have the "Even Better Jira" bookmark, simply copy the new script 
 
 ---
 
-![kanban board](https://user-images.githubusercontent.com/39921371/100749175-ee927f80-33a9-11eb-91a3-9058e2fa9d39.png)
+![kanban board](https://user-images.githubusercontent.com/39921371/130500882-863427ca-68f4-422e-8a15-f5c94a022b73.png)
 
 
 ## Instructions
